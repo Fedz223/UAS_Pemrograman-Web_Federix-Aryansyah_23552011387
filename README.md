@@ -2,8 +2,11 @@
 https://lumiere-room.my.id/
 <img width="1765" height="816" alt="Screenshot 2026-02-02 124218" src="https://github.com/user-attachments/assets/ec109bd0-cb6a-47be-a46b-75257631ef83" />
 
-# Demo 
-https://github.com/user-attachments/assets/561dbe60-8862-4605-a92f-09fbab33e24d
+# Video
+https://github.com/user-attachments/assets/2fac0ccb-2bd9-423d-840b-a88350a33dfe
+
+
+
 
 # Screenshot
 <img width="1756" height="937" alt="Screenshot 2026-02-02 124208" src="https://github.com/user-attachments/assets/a4eb7068-7e27-4720-9afc-dd081852f85c" />
